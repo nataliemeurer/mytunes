@@ -1,0 +1,6 @@
+#TODO
+* router portion
+* multi playlists
+* local storage
+* AMD and require JS
+*
